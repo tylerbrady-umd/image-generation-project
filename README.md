@@ -1,4 +1,7 @@
 # image-generation-project
+### Warning
+Loading times will vary depending on your computer's cpu since the process is cpu heavy. Please be patient.
+
 ### Loading Needed Requirments
 When in the cloned repository run
 ```
